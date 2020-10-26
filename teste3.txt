@@ -1,2 +1,5 @@
 caso de uso 3,4 e 5.
 caso de uso 6.
+
+caso de uso 7.
+caso de uso 8.
